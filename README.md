@@ -19,3 +19,5 @@ A search box for users to input the city name.<br/>
 The CSS file provides styling for the weather app, ensuring a visually appealing and user-friendly interface. It includes styles for the card layout, search input and button, weather information, and error messages.<br/>
 <br/>
 ## output <br/> 
+![img1](https://github.com/hemasrimarisetti/weather-prediction/assets/118597427/bb12e78e-9566-4ca0-aa92-bc59fcc7fd1c)
+

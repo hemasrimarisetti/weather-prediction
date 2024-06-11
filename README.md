@@ -21,6 +21,4 @@ The CSS file provides styling for the weather app, ensuring a visually appealing
 ## output <br/> 
 ![img1](https://github.com/hemasrimarisetti/weather-prediction/assets/118597427/bb12e78e-9566-4ca0-aa92-bc59fcc7fd1c)
 
-<br/>
-<br/>
 ![img2](https://github.com/hemasrimarisetti/weather-prediction/assets/118597427/79766587-4302-4fb0-bb62-d5f232d3fe8d)
